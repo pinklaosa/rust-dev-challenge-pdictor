@@ -34,6 +34,7 @@ Library ต้องเปิดช่องให้ผู้ใช้งาน
     - ทดสอบการสร้าง Struct และ Logic เบื้องต้น
 3. **Example Usage (`examples/demo.rs`)**:
     - สร้างไฟล์ตัวอย่างในโฟลเดอร์ `examples/` เพื่อแสดงวิธีการนำ Library ไปใช้งานจริง
+    - print ผลลัพธ์จากการเรียกใช้ Library ออกมา
     - ต้องสามารถรันได้ด้วยคำสั่ง: `cargo run --example demo --features ...`
 
 ## Evaluation Criteria
