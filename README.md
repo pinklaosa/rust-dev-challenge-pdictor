@@ -1,4 +1,4 @@
-# Rust Coding Challenge: Async Currency Fetcher Library
+# Rust Coding Challenge: Async Provider Fetcher Library
 
 ## Objective
 
